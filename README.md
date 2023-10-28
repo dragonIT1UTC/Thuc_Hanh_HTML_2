@@ -1,3 +1,2 @@
 # Thuc_Hanh_HTML_2
-Làm giao diện theo mẫu :
-[Thuc_Hanh_HTML_2](https://dragonit1utc.github.io/Thuc_Hanh_HTML_2/)https://dragonit1utc.github.io/Thuc_Hanh_HTML_2/
+Làm giao diện theo mẫu : https:://dragonIT1UTC.github.io/Thuc_Hanh_HTML_2/
